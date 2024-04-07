@@ -1,0 +1,23 @@
+/* Use @import directive to import fonts here */
+
+body {
+    font-family: sans-serif;
+  }
+  
+  label {
+    display: block;
+    font:
+      1rem 'Fira Sans',
+      sans-serif;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+  }
+  .error-message {
+      color: red;
+    }
+    .success-message {
+      color: green;
+    }
